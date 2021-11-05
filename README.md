@@ -33,7 +33,11 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [SoundDots 2010](https://www.youtube.com/watch?v=QbUbm5oMK6I)
+- [Steve Clement Live Stream](https://www.youtube.com/watch?v=JLc--uBnM-A)
+- [Steve Clement Live Stream](https://www.youtube.com/watch?v=ldgfxtYwpQM)
+- [Steve Clement Live Stream](https://www.youtube.com/watch?v=T5cC8I_4n0Q)
+- [Steve Clement Live Stream](https://www.youtube.com/watch?v=SKUUo9E0L_8)
+- [Steve Clement Live Stream](https://www.youtube.com/watch?v=NdwHxFD_Ndo)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/SteveClement)
@@ -43,7 +47,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/steveclement/first-post-4a52)
+- [First post](https://dev.to/steveclement/first-post-4a52)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/SteveClement)
@@ -54,6 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#7928](https://github.com/MISP/MISP/pull/7928) in [MISP/MISP](https://github.com/MISP/MISP)
+2. 💪 Opened PR [#7928](https://github.com/MISP/MISP/pull/7928) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 🗣 Commented on [#7917](https://github.com/MISP/MISP/issues/7917) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 🎉 Merged PR [#7926](https://github.com/MISP/MISP/pull/7926) in [MISP/MISP](https://github.com/MISP/MISP)
+5. 💪 Opened PR [#7926](https://github.com/MISP/MISP/pull/7926) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
