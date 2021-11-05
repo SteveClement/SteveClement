@@ -43,7 +43,7 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [Test Post](https://dev.to/steveclement/first-post-4a52)
+- [First post](https://dev.to/steveclement/first-post-4a52)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://dev.to/SteveClement)
