@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7944](https://github.com/MISP/MISP/pull/7944) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 💪 Opened PR [#7944](https://github.com/MISP/MISP/pull/7944) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 🎉 Merged PR [#7928](https://github.com/MISP/MISP/pull/7928) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 💪 Opened PR [#7928](https://github.com/MISP/MISP/pull/7928) in [MISP/MISP](https://github.com/MISP/MISP)
-5. 🗣 Commented on [#7917](https://github.com/MISP/MISP/issues/7917) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🎉 Merged PR [#532](https://github.com/MISP/misp-modules/pull/532) in [MISP/misp-modules](https://github.com/MISP/misp-modules)
+2. 💪 Opened PR [#532](https://github.com/MISP/misp-modules/pull/532) in [MISP/misp-modules](https://github.com/MISP/misp-modules)
+3. 🎉 Merged PR [#531](https://github.com/MISP/misp-modules/pull/531) in [MISP/misp-modules](https://github.com/MISP/misp-modules)
+4. 💪 Opened PR [#531](https://github.com/MISP/misp-modules/pull/531) in [MISP/misp-modules](https://github.com/MISP/misp-modules)
+5. ❌ Closed PR [#1](https://github.com/SteveClement/AIL-framework/pull/1) in [SteveClement/AIL-framework](https://github.com/SteveClement/AIL-framework)
 <!--END_SECTION:activity-->
 
 </details>
