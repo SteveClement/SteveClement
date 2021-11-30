@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/9) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
-2. 🎉 Merged PR [#7](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/7) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
-3. 🎉 Merged PR [#10](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/10) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
-4. 🎉 Merged PR [#5](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/5) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
-5. 🎉 Merged PR [#534](https://github.com/MISP/misp-modules/pull/534) in [MISP/misp-modules](https://github.com/MISP/misp-modules)
+1. 🎉 Merged PR [#1](https://github.com/SteveClement/misp-monitor/pull/1) in [SteveClement/misp-monitor](https://github.com/SteveClement/misp-monitor)
+2. 🎉 Merged PR [#10](https://github.com/CIRCL/hackathon/pull/10) in [CIRCL/hackathon](https://github.com/CIRCL/hackathon)
+3. 🎉 Merged PR [#9](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/9) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
+4. 🎉 Merged PR [#7](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/7) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
+5. 🎉 Merged PR [#10](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/10) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
 <!--END_SECTION:activity-->
 
 </details>
