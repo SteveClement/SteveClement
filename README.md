@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8037](https://github.com/MISP/MISP/pull/8037) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 💪 Opened PR [#8037](https://github.com/MISP/MISP/pull/8037) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 🎉 Merged PR [#8035](https://github.com/MISP/MISP/pull/8035) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 💪 Opened PR [#8035](https://github.com/MISP/MISP/pull/8035) in [MISP/MISP](https://github.com/MISP/MISP)
-5. 🗣 Commented on [#11](https://github.com/rounakbanik/generative-art-nft/issues/11) in [rounakbanik/generative-art-nft](https://github.com/rounakbanik/generative-art-nft)
+1. ❗️ Opened issue [#12](https://github.com/rounakbanik/generative-art-nft/issues/12) in [rounakbanik/generative-art-nft](https://github.com/rounakbanik/generative-art-nft)
+2. 🎉 Merged PR [#8037](https://github.com/MISP/MISP/pull/8037) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 💪 Opened PR [#8037](https://github.com/MISP/MISP/pull/8037) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 🎉 Merged PR [#8035](https://github.com/MISP/MISP/pull/8035) in [MISP/MISP](https://github.com/MISP/MISP)
+5. 💪 Opened PR [#8035](https://github.com/MISP/MISP/pull/8035) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
