@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#11](https://github.com/rounakbanik/generative-art-nft/pull/11) in [rounakbanik/generative-art-nft](https://github.com/rounakbanik/generative-art-nft)
-2. 🎉 Merged PR [#1](https://github.com/SteveClement/misp-monitor/pull/1) in [SteveClement/misp-monitor](https://github.com/SteveClement/misp-monitor)
-3. 🎉 Merged PR [#10](https://github.com/CIRCL/hackathon/pull/10) in [CIRCL/hackathon](https://github.com/CIRCL/hackathon)
-4. 🎉 Merged PR [#9](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/9) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
-5. 🎉 Merged PR [#7](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/7) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
+1. 🎉 Merged PR [#8035](https://github.com/MISP/MISP/pull/8035) in [MISP/MISP](https://github.com/MISP/MISP)
+2. 💪 Opened PR [#8035](https://github.com/MISP/MISP/pull/8035) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 🗣 Commented on [#11](https://github.com/rounakbanik/generative-art-nft/issues/11) in [rounakbanik/generative-art-nft](https://github.com/rounakbanik/generative-art-nft)
+4. 💪 Opened PR [#11](https://github.com/rounakbanik/generative-art-nft/pull/11) in [rounakbanik/generative-art-nft](https://github.com/rounakbanik/generative-art-nft)
+5. 🎉 Merged PR [#1](https://github.com/SteveClement/misp-monitor/pull/1) in [SteveClement/misp-monitor](https://github.com/SteveClement/misp-monitor)
 <!--END_SECTION:activity-->
 
 </details>
