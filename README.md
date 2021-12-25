@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#8057](https://github.com/MISP/MISP/issues/8057) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 🎉 Merged PR [#8056](https://github.com/MISP/MISP/pull/8056) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 💪 Opened PR [#8056](https://github.com/MISP/MISP/pull/8056) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 🎉 Merged PR [#5](https://github.com/SteveClement/MISP/pull/5) in [SteveClement/MISP](https://github.com/SteveClement/MISP)
-5. 💪 Opened PR [#5](https://github.com/SteveClement/MISP/pull/5) in [SteveClement/MISP](https://github.com/SteveClement/MISP)
+1. 🎉 Merged PR [#8059](https://github.com/MISP/MISP/pull/8059) in [MISP/MISP](https://github.com/MISP/MISP)
+2. 💪 Opened PR [#8059](https://github.com/MISP/MISP/pull/8059) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 🎉 Merged PR [#8058](https://github.com/MISP/MISP/pull/8058) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 💪 Opened PR [#8058](https://github.com/MISP/MISP/pull/8058) in [MISP/MISP](https://github.com/MISP/MISP)
+5. ❗️ Opened issue [#15](https://github.com/MISP/misp-stix/issues/15) in [MISP/misp-stix](https://github.com/MISP/misp-stix)
 <!--END_SECTION:activity-->
 
 </details>
