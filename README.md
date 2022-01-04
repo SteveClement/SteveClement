@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#318](https://github.com/Lookyloo/lookyloo/issues/318) in [Lookyloo/lookyloo](https://github.com/Lookyloo/lookyloo)
-2. 🎉 Merged PR [#161](https://github.com/MISP/misp-dashboard/pull/161) in [MISP/misp-dashboard](https://github.com/MISP/misp-dashboard)
-3. ❗️ Closed issue [#6437](https://github.com/MISP/MISP/issues/6437) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 🎉 Merged PR [#8059](https://github.com/MISP/MISP/pull/8059) in [MISP/MISP](https://github.com/MISP/MISP)
-5. 💪 Opened PR [#8059](https://github.com/MISP/MISP/pull/8059) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🎉 Merged PR [#1](https://github.com/SteveClement/planetary-api/pull/1) in [SteveClement/planetary-api](https://github.com/SteveClement/planetary-api)
+2. 🎉 Merged PR [#3](https://github.com/SteveClement/misp-monitor/pull/3) in [SteveClement/misp-monitor](https://github.com/SteveClement/misp-monitor)
+3. ❗️ Opened issue [#318](https://github.com/Lookyloo/lookyloo/issues/318) in [Lookyloo/lookyloo](https://github.com/Lookyloo/lookyloo)
+4. 🎉 Merged PR [#161](https://github.com/MISP/misp-dashboard/pull/161) in [MISP/misp-dashboard](https://github.com/MISP/misp-dashboard)
+5. ❗️ Closed issue [#6437](https://github.com/MISP/MISP/issues/6437) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
