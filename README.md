@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#8073](https://github.com/MISP/MISP/pull/8073) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 🗣 Commented on [#8073](https://github.com/MISP/MISP/issues/8073) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 🎉 Merged PR [#8075](https://github.com/MISP/MISP/pull/8075) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 💪 Opened PR [#8075](https://github.com/MISP/MISP/pull/8075) in [MISP/MISP](https://github.com/MISP/MISP)
-5. 🎉 Merged PR [#8074](https://github.com/MISP/MISP/pull/8074) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🎉 Merged PR [#8080](https://github.com/MISP/MISP/pull/8080) in [MISP/MISP](https://github.com/MISP/MISP)
+2. 💪 Opened PR [#8080](https://github.com/MISP/MISP/pull/8080) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 🎉 Merged PR [#8079](https://github.com/MISP/MISP/pull/8079) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 💪 Opened PR [#8079](https://github.com/MISP/MISP/pull/8079) in [MISP/MISP](https://github.com/MISP/MISP)
+5. ❌ Closed PR [#8073](https://github.com/MISP/MISP/pull/8073) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
