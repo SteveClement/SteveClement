@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8091](https://github.com/MISP/MISP/pull/8091) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 💪 Opened PR [#8091](https://github.com/MISP/MISP/pull/8091) in [MISP/MISP](https://github.com/MISP/MISP)
-3. ❗️ Closed issue [#5419](https://github.com/MISP/MISP/issues/5419) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 🗣 Commented on [#5419](https://github.com/MISP/MISP/issues/5419) in [MISP/MISP](https://github.com/MISP/MISP)
-5. 🗣 Commented on [#6679](https://github.com/MISP/MISP/issues/6679) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 💪 Opened PR [#17](https://github.com/paralax/awesome-cybersecurity-internships/pull/17) in [paralax/awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships)
+2. 🎉 Merged PR [#8091](https://github.com/MISP/MISP/pull/8091) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 💪 Opened PR [#8091](https://github.com/MISP/MISP/pull/8091) in [MISP/MISP](https://github.com/MISP/MISP)
+4. ❗️ Closed issue [#5419](https://github.com/MISP/MISP/issues/5419) in [MISP/MISP](https://github.com/MISP/MISP)
+5. 🗣 Commented on [#5419](https://github.com/MISP/MISP/issues/5419) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
