@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8182](https://github.com/MISP/MISP/pull/8182) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 💪 Opened PR [#8182](https://github.com/MISP/MISP/pull/8182) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 💪 Opened PR [#17](https://github.com/paralax/awesome-cybersecurity-internships/pull/17) in [paralax/awesome-cybersecurity-internships](https://github.com/paralax/awesome-cybersecurity-internships)
-4. 🎉 Merged PR [#8091](https://github.com/MISP/MISP/pull/8091) in [MISP/MISP](https://github.com/MISP/MISP)
-5. 💪 Opened PR [#8091](https://github.com/MISP/MISP/pull/8091) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🎉 Merged PR [#8187](https://github.com/MISP/MISP/pull/8187) in [MISP/MISP](https://github.com/MISP/MISP)
+2. 💪 Opened PR [#8187](https://github.com/MISP/MISP/pull/8187) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 🎉 Merged PR [#8186](https://github.com/MISP/MISP/pull/8186) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 💪 Opened PR [#8186](https://github.com/MISP/MISP/pull/8186) in [MISP/MISP](https://github.com/MISP/MISP)
+5. 🎉 Merged PR [#8182](https://github.com/MISP/MISP/pull/8182) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
