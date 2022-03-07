@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/SteveClement/misp-refresh/pull/8) in [SteveClement/misp-refresh](https://github.com/SteveClement/misp-refresh)
-2. 🎉 Merged PR [#8187](https://github.com/MISP/MISP/pull/8187) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 💪 Opened PR [#8187](https://github.com/MISP/MISP/pull/8187) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 🎉 Merged PR [#8186](https://github.com/MISP/MISP/pull/8186) in [MISP/MISP](https://github.com/MISP/MISP)
-5. 💪 Opened PR [#8186](https://github.com/MISP/MISP/pull/8186) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🎉 Merged PR [#8194](https://github.com/MISP/MISP/pull/8194) in [MISP/MISP](https://github.com/MISP/MISP)
+2. 💪 Opened PR [#8194](https://github.com/MISP/MISP/pull/8194) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 🎉 Merged PR [#8](https://github.com/SteveClement/misp-refresh/pull/8) in [SteveClement/misp-refresh](https://github.com/SteveClement/misp-refresh)
+4. 🎉 Merged PR [#8187](https://github.com/MISP/MISP/pull/8187) in [MISP/MISP](https://github.com/MISP/MISP)
+5. 💪 Opened PR [#8187](https://github.com/MISP/MISP/pull/8187) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
