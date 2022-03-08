@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8196](https://github.com/MISP/MISP/pull/8196) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 💪 Opened PR [#8196](https://github.com/MISP/MISP/pull/8196) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 🎉 Merged PR [#8194](https://github.com/MISP/MISP/pull/8194) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 💪 Opened PR [#8194](https://github.com/MISP/MISP/pull/8194) in [MISP/MISP](https://github.com/MISP/MISP)
-5. 🎉 Merged PR [#8](https://github.com/SteveClement/misp-refresh/pull/8) in [SteveClement/misp-refresh](https://github.com/SteveClement/misp-refresh)
+1. 🎉 Merged PR [#12](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/12) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
+2. 🎉 Merged PR [#11](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/11) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
+3. 🎉 Merged PR [#8196](https://github.com/MISP/MISP/pull/8196) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 💪 Opened PR [#8196](https://github.com/MISP/MISP/pull/8196) in [MISP/MISP](https://github.com/MISP/MISP)
+5. 🎉 Merged PR [#8194](https://github.com/MISP/MISP/pull/8194) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
