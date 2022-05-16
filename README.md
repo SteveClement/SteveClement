@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/SteveClement/misp-monitor/pull/4) in [SteveClement/misp-monitor](https://github.com/SteveClement/misp-monitor)
-2. 🎉 Merged PR [#8199](https://github.com/MISP/MISP/pull/8199) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 💪 Opened PR [#8199](https://github.com/MISP/MISP/pull/8199) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 🎉 Merged PR [#13](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/13) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
-5. 🎉 Merged PR [#12](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/12) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
+1. ❗️ Opened issue [#35](https://github.com/maestrogerardo/i3-gaps-deb/issues/35) in [maestrogerardo/i3-gaps-deb](https://github.com/maestrogerardo/i3-gaps-deb)
+2. 🎉 Merged PR [#4](https://github.com/SteveClement/misp-monitor/pull/4) in [SteveClement/misp-monitor](https://github.com/SteveClement/misp-monitor)
+3. 🎉 Merged PR [#8199](https://github.com/MISP/MISP/pull/8199) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 💪 Opened PR [#8199](https://github.com/MISP/MISP/pull/8199) in [MISP/MISP](https://github.com/MISP/MISP)
+5. 🎉 Merged PR [#13](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/13) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
 <!--END_SECTION:activity-->
 
 </details>
