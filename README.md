@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/CybersecurityLuxembourg/openxeco-web/issues/1) in [CybersecurityLuxembourg/openxeco-web](https://github.com/CybersecurityLuxembourg/openxeco-web)
-2. ❗️ Opened issue [#570](https://github.com/MISP/misp-modules/issues/570) in [MISP/misp-modules](https://github.com/MISP/misp-modules)
-3. ❗️ Opened issue [#35](https://github.com/maestrogerardo/i3-gaps-deb/issues/35) in [maestrogerardo/i3-gaps-deb](https://github.com/maestrogerardo/i3-gaps-deb)
-4. 🎉 Merged PR [#4](https://github.com/SteveClement/misp-monitor/pull/4) in [SteveClement/misp-monitor](https://github.com/SteveClement/misp-monitor)
-5. 🎉 Merged PR [#8199](https://github.com/MISP/MISP/pull/8199) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🎉 Merged PR [#8401](https://github.com/MISP/MISP/pull/8401) in [MISP/MISP](https://github.com/MISP/MISP)
+2. 💪 Opened PR [#8401](https://github.com/MISP/MISP/pull/8401) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 🎉 Merged PR [#8400](https://github.com/MISP/MISP/pull/8400) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 💪 Opened PR [#8400](https://github.com/MISP/MISP/pull/8400) in [MISP/MISP](https://github.com/MISP/MISP)
+5. 🎉 Merged PR [#8399](https://github.com/MISP/MISP/pull/8399) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
