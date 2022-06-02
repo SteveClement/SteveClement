@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#280](https://github.com/MISP/misp-book/pull/280) in [MISP/misp-book](https://github.com/MISP/misp-book)
-2. 💪 Opened PR [#280](https://github.com/MISP/misp-book/pull/280) in [MISP/misp-book](https://github.com/MISP/misp-book)
-3. 🎉 Merged PR [#279](https://github.com/MISP/misp-book/pull/279) in [MISP/misp-book](https://github.com/MISP/misp-book)
-4. 💪 Opened PR [#279](https://github.com/MISP/misp-book/pull/279) in [MISP/misp-book](https://github.com/MISP/misp-book)
-5. 🎉 Merged PR [#278](https://github.com/MISP/misp-book/pull/278) in [MISP/misp-book](https://github.com/MISP/misp-book)
+1. 🎉 Merged PR [#2](https://github.com/CybersecurityLuxembourg/openxeco.org/pull/2) in [CybersecurityLuxembourg/openxeco.org](https://github.com/CybersecurityLuxembourg/openxeco.org)
+2. 💪 Opened PR [#2](https://github.com/CybersecurityLuxembourg/openxeco.org/pull/2) in [CybersecurityLuxembourg/openxeco.org](https://github.com/CybersecurityLuxembourg/openxeco.org)
+3. 🎉 Merged PR [#280](https://github.com/MISP/misp-book/pull/280) in [MISP/misp-book](https://github.com/MISP/misp-book)
+4. 💪 Opened PR [#280](https://github.com/MISP/misp-book/pull/280) in [MISP/misp-book](https://github.com/MISP/misp-book)
+5. 🎉 Merged PR [#279](https://github.com/MISP/misp-book/pull/279) in [MISP/misp-book](https://github.com/MISP/misp-book)
 <!--END_SECTION:activity-->
 
 </details>
