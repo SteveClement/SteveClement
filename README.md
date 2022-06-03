@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/7) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
-2. 💪 Opened PR [#7](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/7) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
-3. 🎉 Merged PR [#6](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/6) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
-4. 💪 Opened PR [#6](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/6) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
-5. 🎉 Merged PR [#7](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/7) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+1. 🎉 Merged PR [#8](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/8) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
+2. 💪 Opened PR [#8](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/8) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
+3. 🎉 Merged PR [#7](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/7) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
+4. 💪 Opened PR [#7](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/7) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
+5. 🎉 Merged PR [#6](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/6) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
 <!--END_SECTION:activity-->
 
 </details>
