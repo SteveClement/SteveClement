@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#13](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/13) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-2. 💪 Opened PR [#13](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/13) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-3. 🎉 Merged PR [#12](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/12) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-4. 💪 Opened PR [#12](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/12) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-5. 🎉 Merged PR [#11](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/11) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+1. 🎉 Merged PR [#14](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/14) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+2. 💪 Opened PR [#14](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/14) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+3. 🎉 Merged PR [#13](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/13) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+4. 💪 Opened PR [#13](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/13) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+5. 🎉 Merged PR [#12](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/12) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
 <!--END_SECTION:activity-->
 
 </details>
