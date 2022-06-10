@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#27](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/27) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-2. 💪 Opened PR [#27](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/27) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-3. ❗️ Opened issue [#26](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/26) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-4. ❗️ Opened issue [#25](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/25) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-5. ❗️ Closed issue [#21](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/21) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+1. 🎉 Merged PR [#9](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/9) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
+2. 💪 Opened PR [#9](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/9) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
+3. 🎉 Merged PR [#27](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/27) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+4. 💪 Opened PR [#27](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/27) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+5. ❗️ Opened issue [#26](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/26) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
 <!--END_SECTION:activity-->
 
 </details>
