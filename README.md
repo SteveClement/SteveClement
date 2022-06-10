@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#22](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/22) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-2. 💪 Opened PR [#22](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/22) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-3. 🗣 Commented on [#21](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/21) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-4. ❗️ Opened issue [#21](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/21) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-5. 🎉 Merged PR [#20](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/20) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+1. 🎉 Merged PR [#23](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/23) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+2. 💪 Opened PR [#23](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/23) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+3. 🎉 Merged PR [#22](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/22) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+4. 💪 Opened PR [#22](https://github.com/CybersecurityLuxembourg/openxeco-core/pull/22) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+5. 🗣 Commented on [#21](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/21) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
 <!--END_SECTION:activity-->
 
 </details>
