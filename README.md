@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#30](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/30) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-2. ❗️ Opened issue [#29](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/29) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-3. ❗️ Opened issue [#28](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/28) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-4. 🎉 Merged PR [#9](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/9) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
-5. 💪 Opened PR [#9](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/9) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
+1. ❗️ Closed issue [#29](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/29) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+2. ❗️ Opened issue [#30](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/30) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+3. ❗️ Opened issue [#29](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/29) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+4. ❗️ Opened issue [#28](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/28) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+5. 🎉 Merged PR [#9](https://github.com/CybersecurityLuxembourg/openxeco-book/pull/9) in [CybersecurityLuxembourg/openxeco-book](https://github.com/CybersecurityLuxembourg/openxeco-book)
 <!--END_SECTION:activity-->
 
 </details>
