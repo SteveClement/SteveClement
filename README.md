@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/31) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-2. ❗️ Closed issue [#29](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/29) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-3. ❗️ Opened issue [#30](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/30) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-4. ❗️ Opened issue [#29](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/29) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-5. ❗️ Opened issue [#28](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/28) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+1. 💪 Opened PR [#1](https://github.com/csirt-tooling-org/csirt-tooling-best-practices/pull/1) in [csirt-tooling-org/csirt-tooling-best-practices](https://github.com/csirt-tooling-org/csirt-tooling-best-practices)
+2. ❗️ Opened issue [#31](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/31) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+3. ❗️ Closed issue [#29](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/29) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+4. ❗️ Opened issue [#30](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/30) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+5. ❗️ Opened issue [#29](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/29) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
 <!--END_SECTION:activity-->
 
 </details>
