@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#41](https://github.com/time4tea/gopro-dashboard-overlay/issues/41) in [time4tea/gopro-dashboard-overlay](https://github.com/time4tea/gopro-dashboard-overlay)
-2. 💪 Opened PR [#1](https://github.com/csirt-tooling-org/csirt-tooling-best-practices/pull/1) in [csirt-tooling-org/csirt-tooling-best-practices](https://github.com/csirt-tooling-org/csirt-tooling-best-practices)
-3. ❗️ Opened issue [#31](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/31) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-4. ❗️ Closed issue [#29](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/29) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
-5. ❗️ Opened issue [#30](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/30) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+1. ❗️ Closed issue [#41](https://github.com/time4tea/gopro-dashboard-overlay/issues/41) in [time4tea/gopro-dashboard-overlay](https://github.com/time4tea/gopro-dashboard-overlay)
+2. ❗️ Opened issue [#41](https://github.com/time4tea/gopro-dashboard-overlay/issues/41) in [time4tea/gopro-dashboard-overlay](https://github.com/time4tea/gopro-dashboard-overlay)
+3. 💪 Opened PR [#1](https://github.com/csirt-tooling-org/csirt-tooling-best-practices/pull/1) in [csirt-tooling-org/csirt-tooling-best-practices](https://github.com/csirt-tooling-org/csirt-tooling-best-practices)
+4. ❗️ Opened issue [#31](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/31) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
+5. ❗️ Closed issue [#29](https://github.com/CybersecurityLuxembourg/openxeco-core/issues/29) in [CybersecurityLuxembourg/openxeco-core](https://github.com/CybersecurityLuxembourg/openxeco-core)
 <!--END_SECTION:activity-->
 
 </details>
