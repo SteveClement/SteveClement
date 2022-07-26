@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/16) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
-2. 🎉 Merged PR [#15](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/15) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
-3. 🎉 Merged PR [#14](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/14) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
-4. 🎉 Merged PR [#18](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/18) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
-5. 🎉 Merged PR [#19](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/19) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
+1. 🎉 Merged PR [#8508](https://github.com/MISP/MISP/pull/8508) in [MISP/MISP](https://github.com/MISP/MISP)
+2. 💪 Opened PR [#8508](https://github.com/MISP/MISP/pull/8508) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 🎉 Merged PR [#16](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/16) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
+4. 🎉 Merged PR [#15](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/15) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
+5. 🎉 Merged PR [#14](https://github.com/CoderDojoLu/blog.coderdojo.lu/pull/14) in [CoderDojoLu/blog.coderdojo.lu](https://github.com/CoderDojoLu/blog.coderdojo.lu)
 <!--END_SECTION:activity-->
 
 </details>
