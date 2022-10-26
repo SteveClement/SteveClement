@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4](https://github.com/clee704/mutagenwrapper/issues/4) in [clee704/mutagenwrapper](https://github.com/clee704/mutagenwrapper)
-2. 🗣 Commented on [#8206](https://github.com/MISP/MISP/issues/8206) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 🎉 Merged PR [#8509](https://github.com/MISP/MISP/pull/8509) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 💪 Opened PR [#8509](https://github.com/MISP/MISP/pull/8509) in [MISP/MISP](https://github.com/MISP/MISP)
-5. 🎉 Merged PR [#8508](https://github.com/MISP/MISP/pull/8508) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🎉 Merged PR [#1](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu/pull/1) in [CybersecurityLuxembourg/encryptioneurope.eu](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu)
+2. 🗣 Commented on [#4](https://github.com/clee704/mutagenwrapper/issues/4) in [clee704/mutagenwrapper](https://github.com/clee704/mutagenwrapper)
+3. 🗣 Commented on [#8206](https://github.com/MISP/MISP/issues/8206) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 🎉 Merged PR [#8509](https://github.com/MISP/MISP/pull/8509) in [MISP/MISP](https://github.com/MISP/MISP)
+5. 💪 Opened PR [#8509](https://github.com/MISP/MISP/pull/8509) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
