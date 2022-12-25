@@ -58,10 +58,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#4637](https://github.com/MISP/MISP/issues/4637) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 🗣 Commented on [#93](https://github.com/cyberjunky/python-garminconnect/issues/93) in [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect)
-3. 🎉 Merged PR [#1](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu/pull/1) in [CybersecurityLuxembourg/encryptioneurope.eu](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu)
-4. 🗣 Commented on [#4](https://github.com/clee704/mutagenwrapper/issues/4) in [clee704/mutagenwrapper](https://github.com/clee704/mutagenwrapper)
+1. ❗️ Opened issue [#1](https://github.com/google/repose/issues/1) in [google/repose](https://github.com/google/repose)
+2. 🗣 Commented on [#4637](https://github.com/MISP/MISP/issues/4637) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 🗣 Commented on [#93](https://github.com/cyberjunky/python-garminconnect/issues/93) in [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect)
+4. 🎉 Merged PR [#1](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu/pull/1) in [CybersecurityLuxembourg/encryptioneurope.eu](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu)
 5. 🗣 Commented on [#8206](https://github.com/MISP/MISP/issues/8206) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
