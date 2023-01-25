@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/google/repose/issues/1) in [google/repose](https://github.com/google/repose)
-2. 🗣 Commented on [#4637](https://github.com/MISP/MISP/issues/4637) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 🗣 Commented on [#93](https://github.com/cyberjunky/python-garminconnect/issues/93) in [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect)
-4. 🎉 Merged PR [#1](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu/pull/1) in [CybersecurityLuxembourg/encryptioneurope.eu](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu)
-5. 🗣 Commented on [#8206](https://github.com/MISP/MISP/issues/8206) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🗣 Commented on [#8](https://github.com/Rybo-Cloud/booked-php-api-client/issues/8) in [Rybo-Cloud/booked-php-api-client](https://github.com/Rybo-Cloud/booked-php-api-client)
+2. ❗️ Opened issue [#1](https://github.com/google/repose/issues/1) in [google/repose](https://github.com/google/repose)
+3. 🗣 Commented on [#4637](https://github.com/MISP/MISP/issues/4637) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 🗣 Commented on [#93](https://github.com/cyberjunky/python-garminconnect/issues/93) in [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect)
+5. 🎉 Merged PR [#1](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu/pull/1) in [CybersecurityLuxembourg/encryptioneurope.eu](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu)
 <!--END_SECTION:activity-->
 
 </details>
