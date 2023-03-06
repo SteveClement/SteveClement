@@ -58,10 +58,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/NC3-LU/NC3-LU/pull/1) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
-2. 🗣 Commented on [#8](https://github.com/Rybo-Cloud/booked-php-api-client/issues/8) in [Rybo-Cloud/booked-php-api-client](https://github.com/Rybo-Cloud/booked-php-api-client)
-3. ❗️ Opened issue [#1](https://github.com/google/repose/issues/1) in [google/repose](https://github.com/google/repose)
-4. 🗣 Commented on [#93](https://github.com/cyberjunky/python-garminconnect/issues/93) in [cyberjunky/python-garminconnect](https://github.com/cyberjunky/python-garminconnect)
+1. 💪 Opened PR [#2](https://github.com/NC3-LU/NC3-LU/pull/2) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
+2. 💪 Opened PR [#1](https://github.com/NC3-LU/NC3-LU/pull/1) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
+3. 🗣 Commented on [#8](https://github.com/Rybo-Cloud/booked-php-api-client/issues/8) in [Rybo-Cloud/booked-php-api-client](https://github.com/Rybo-Cloud/booked-php-api-client)
+4. ❗️ Opened issue [#1](https://github.com/google/repose/issues/1) in [google/repose](https://github.com/google/repose)
 5. 🎉 Merged PR [#1](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu/pull/1) in [CybersecurityLuxembourg/encryptioneurope.eu](https://github.com/CybersecurityLuxembourg/encryptioneurope.eu)
 <!--END_SECTION:activity-->
 
