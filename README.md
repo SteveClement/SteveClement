@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/NC3-LU/NC3-LU/pull/3) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
-2. 💪 Opened PR [#2](https://github.com/NC3-LU/NC3-LU/pull/2) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
-3. 💪 Opened PR [#1](https://github.com/NC3-LU/NC3-LU/pull/1) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
-4. 🗣 Commented on [#8](https://github.com/Rybo-Cloud/booked-php-api-client/issues/8) in [Rybo-Cloud/booked-php-api-client](https://github.com/Rybo-Cloud/booked-php-api-client)
-5. ❗️ Opened issue [#1](https://github.com/google/repose/issues/1) in [google/repose](https://github.com/google/repose)
+1. 💪 Opened PR [#4](https://github.com/NC3-LU/NC3-LU/pull/4) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
+2. 💪 Opened PR [#3](https://github.com/NC3-LU/NC3-LU/pull/3) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
+3. 💪 Opened PR [#2](https://github.com/NC3-LU/NC3-LU/pull/2) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
+4. 💪 Opened PR [#1](https://github.com/NC3-LU/NC3-LU/pull/1) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
+5. 🗣 Commented on [#8](https://github.com/Rybo-Cloud/booked-php-api-client/issues/8) in [Rybo-Cloud/booked-php-api-client](https://github.com/Rybo-Cloud/booked-php-api-client)
 <!--END_SECTION:activity-->
 
 </details>
