@@ -58,11 +58,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#8](https://github.com/NC3-LU/NC3-LU/pull/8) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
-2. 💪 Opened PR [#7](https://github.com/NC3-LU/NC3-LU/pull/7) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
-3. 💪 Opened PR [#6](https://github.com/NC3-LU/NC3-LU/pull/6) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
-4. 💪 Opened PR [#5](https://github.com/NC3-LU/NC3-LU/pull/5) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
-5. 💪 Opened PR [#4](https://github.com/NC3-LU/NC3-LU/pull/4) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
+1. 💪 Opened PR [#9](https://github.com/NC3-LU/code.lhc.lu/pull/9) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+2. 💪 Opened PR [#8](https://github.com/NC3-LU/NC3-LU/pull/8) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
+3. 💪 Opened PR [#7](https://github.com/NC3-LU/NC3-LU/pull/7) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
+4. 💪 Opened PR [#6](https://github.com/NC3-LU/NC3-LU/pull/6) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
+5. 💪 Opened PR [#5](https://github.com/NC3-LU/NC3-LU/pull/5) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
 <!--END_SECTION:activity-->
 
 </details>
