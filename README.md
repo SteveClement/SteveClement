@@ -58,8 +58,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#9061](https://github.com/MISP/MISP/pull/9061) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 💪 Opened PR [#11](https://github.com/NC3-LU/code.lhc.lu/pull/11) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+1. 💪 Opened PR [#145](https://github.com/publiccodenet/governance-game/pull/145) in [publiccodenet/governance-game](https://github.com/publiccodenet/governance-game)
+2. 💪 Opened PR [#9061](https://github.com/MISP/MISP/pull/9061) in [MISP/MISP](https://github.com/MISP/MISP)
 3. 💪 Opened PR [#10](https://github.com/NC3-LU/code.lhc.lu/pull/10) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
 4. 💪 Opened PR [#9](https://github.com/NC3-LU/code.lhc.lu/pull/9) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
 5. 💪 Opened PR [#8](https://github.com/NC3-LU/NC3-LU/pull/8) in [NC3-LU/NC3-LU](https://github.com/NC3-LU/NC3-LU)
