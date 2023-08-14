@@ -5,7 +5,7 @@
 
 [![Website](https://img.shields.io/website?label=localhost.lu&style=for-the-badge&url=https%3A%2F%2Flocalhost.lu)](https://localhost.lu)
 [![Twitter Follow](https://img.shields.io/twitter/follow/SteveClement?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSteveClement&screen_name=SteveClement)
-[![Mastodon Follow](https://img.shields.io/mastodon/follow/110887225494575400?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&logo=mastodon)
+[![Mastodon Follow](https://img.shields.io/mastodon/follow/110887225494575400?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&logo=mastodon)](https://infosec.exchange/@SteveClement)
 
 <a href="https://infosec.exchange/@SteveClement" rel="me"></a>
 
