@@ -7,7 +7,9 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/SteveClement?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FSteveClement&screen_name=SteveClement)
 [![Mastodon Follow](https://img.shields.io/mastodon/follow/110887225494575400?domain=https%3A%2F%2Finfosec.exchange&style=for-the-badge&logo=mastodon)](https://infosec.exchange/@SteveClement)
 
-<a href="https://infosec.exchange/@SteveClement" rel="me"></a>
+<a href="https://infosec.exchange/@SteveClement" rel="me">
+  <img align="left" alt="Steve Clement's Mastodon" width="20px" src="https://simpleicons.now.sh/mastodon/495f7e" />
+</a>
 
 ## I'm a Pseudo Developer, Trail Runner and world traveler.
 
