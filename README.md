@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9327](https://github.com/MISP/MISP/pull/9327) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 💪 Opened PR [#9327](https://github.com/MISP/MISP/pull/9327) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 💪 Opened PR [#183](https://github.com/ail-project/ail-framework/pull/183) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-4. 🎉 Merged PR [#9262](https://github.com/MISP/MISP/pull/9262) in [MISP/MISP](https://github.com/MISP/MISP)
-5. 💪 Opened PR [#9262](https://github.com/MISP/MISP/pull/9262) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🗣 Commented on [#370](https://github.com/perl5-dbi/DBD-mysql/issues/370#issuecomment-1759852613) in [perl5-dbi/DBD-mysql](https://github.com/perl5-dbi/DBD-mysql)
+2. 🎉 Merged PR [#9327](https://github.com/MISP/MISP/pull/9327) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 💪 Opened PR [#9327](https://github.com/MISP/MISP/pull/9327) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 💪 Opened PR [#183](https://github.com/ail-project/ail-framework/pull/183) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+5. 🎉 Merged PR [#9262](https://github.com/MISP/MISP/pull/9262) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
