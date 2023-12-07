@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/SteveClement/salto-presence/issues/1) in [SteveClement/salto-presence](https://github.com/SteveClement/salto-presence)
-2. 💪 Opened PR [#14](https://github.com/ail-project/lacus/pull/14) in [ail-project/lacus](https://github.com/ail-project/lacus)
-3. 💪 Opened PR [#4](https://github.com/ail-project/ail-feeder-telegram/pull/4) in [ail-project/ail-feeder-telegram](https://github.com/ail-project/ail-feeder-telegram)
-4. 🗣 Commented on [#370](https://github.com/perl5-dbi/DBD-mysql/issues/370#issuecomment-1759852613) in [perl5-dbi/DBD-mysql](https://github.com/perl5-dbi/DBD-mysql)
-5. 🎉 Merged PR [#9327](https://github.com/MISP/MISP/pull/9327) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🔒 Closed issue [#601](https://github.com/CIRCL/AIL-framework/issues/601) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
+2. 🔒 Closed issue [#600](https://github.com/CIRCL/AIL-framework/issues/600) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
+3. ❗ Opened issue [#190](https://github.com/ail-project/ail-framework/issues/190) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+4. ❗ Opened issue [#189](https://github.com/ail-project/ail-framework/issues/189) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+5. ❗ Opened issue [#601](https://github.com/CIRCL/AIL-framework/issues/601) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
 <!--END_SECTION:activity-->
 
 </details>
