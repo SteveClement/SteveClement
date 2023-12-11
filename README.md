@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#601](https://github.com/CIRCL/AIL-framework/issues/601) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
-2. 🔒 Closed issue [#600](https://github.com/CIRCL/AIL-framework/issues/600) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
-3. ❗ Opened issue [#190](https://github.com/ail-project/ail-framework/issues/190) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-4. ❗ Opened issue [#189](https://github.com/ail-project/ail-framework/issues/189) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-5. ❗ Opened issue [#601](https://github.com/CIRCL/AIL-framework/issues/601) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
+1. 🗣 Commented on [#190](https://github.com/ail-project/ail-framework/issues/190#issuecomment-1849546311) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+2. 🔒 Closed issue [#190](https://github.com/ail-project/ail-framework/issues/190) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+3. 🔒 Closed issue [#189](https://github.com/ail-project/ail-framework/issues/189) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+4. 🔒 Closed issue [#601](https://github.com/CIRCL/AIL-framework/issues/601) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
+5. 🔒 Closed issue [#600](https://github.com/CIRCL/AIL-framework/issues/600) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
 <!--END_SECTION:activity-->
 
 </details>
