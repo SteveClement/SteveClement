@@ -66,11 +66,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#35](https://github.com/bsolomon1124/pycld3/issues/35#issuecomment-1884531018) in [bsolomon1124/pycld3](https://github.com/bsolomon1124/pycld3)
-2. ❗ Opened issue [#199](https://github.com/ail-project/ail-framework/issues/199) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-3. 🗣 Commented on [#190](https://github.com/ail-project/ail-framework/issues/190#issuecomment-1849546311) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-4. 🔒 Closed issue [#190](https://github.com/ail-project/ail-framework/issues/190) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-5. 🔒 Closed issue [#189](https://github.com/ail-project/ail-framework/issues/189) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+1. 🎉 Merged PR [#1](https://github.com/SteveClement/ail-framework/pull/1) in [SteveClement/ail-framework](https://github.com/SteveClement/ail-framework)
+2. 💪 Opened PR [#1](https://github.com/SteveClement/ail-framework/pull/1) in [SteveClement/ail-framework](https://github.com/SteveClement/ail-framework)
+3. 💪 Opened PR [#201](https://github.com/ail-project/ail-framework/pull/201) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+4. 🗣 Commented on [#35](https://github.com/bsolomon1124/pycld3/issues/35#issuecomment-1884531018) in [bsolomon1124/pycld3](https://github.com/bsolomon1124/pycld3)
+5. ❗ Opened issue [#199](https://github.com/ail-project/ail-framework/issues/199) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
 <!--END_SECTION:activity-->
 
 </details>
