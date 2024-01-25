@@ -11,11 +11,10 @@
   <img align="left" alt="Steve Clement's Mastodon" width="20px" src="https://simpleicons.now.sh/mastodon/495f7e" />
 </a>
 
-## I'm a Pseudo Developer, Trail Runner and world traveler.
+## Developer, Athlete
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Contribute more to Open Source projects
+- 🥅 2024 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to cook and ride my bike every day 🚴
 
 ### Connect with me:
@@ -64,7 +63,7 @@
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
-  
+
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#202](https://github.com/ail-project/ail-framework/pull/202) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
 2. 🎉 Merged PR [#1](https://github.com/SteveClement/ail-framework/pull/1) in [SteveClement/ail-framework](https://github.com/SteveClement/ail-framework)
