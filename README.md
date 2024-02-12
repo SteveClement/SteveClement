@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#202](https://github.com/ail-project/ail-framework/pull/202) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-2. 🎉 Merged PR [#201](https://github.com/ail-project/ail-framework/pull/201) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-3. 🗣 Commented on [#201](https://github.com/ail-project/ail-framework/pull/201#issuecomment-1920824346) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-4. 🗣 Commented on [#199](https://github.com/ail-project/ail-framework/issues/199#issuecomment-1910851869) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-5. 🔒 Closed issue [#199](https://github.com/ail-project/ail-framework/issues/199) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+1. ❗ Opened issue [#5](https://github.com/ail-project/ail-feeder-telegram/issues/5) in [ail-project/ail-feeder-telegram](https://github.com/ail-project/ail-feeder-telegram)
+2. ❗ Opened issue [#1](https://github.com/ail-project/ail-feeder-image/issues/1) in [ail-project/ail-feeder-image](https://github.com/ail-project/ail-feeder-image)
+3. 🎉 Merged PR [#202](https://github.com/ail-project/ail-framework/pull/202) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+4. 🎉 Merged PR [#201](https://github.com/ail-project/ail-framework/pull/201) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+5. 🗣 Commented on [#201](https://github.com/ail-project/ail-framework/pull/201#issuecomment-1920824346) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
 <!--END_SECTION:activity-->
 
 </details>
