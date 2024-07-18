@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/SteveClement/mmdb-server/issues/3#issuecomment-2189260997) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
-2. 🗣 Commented on [#3](https://github.com/SteveClement/mmdb-server/issues/3#issuecomment-2189245794) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
-3. ❗ Opened issue [#3](https://github.com/SteveClement/mmdb-server/issues/3) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
-4. ❗ Opened issue [#2](https://github.com/SteveClement/mmdb-server/issues/2) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
-5. ❗ Opened issue [#1](https://github.com/SteveClement/mmdb-server/issues/1) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
+1. ❗ Opened issue [#4298](https://github.com/pygame/pygame/issues/4298) in [pygame/pygame](https://github.com/pygame/pygame)
+2. 🗣 Commented on [#3](https://github.com/SteveClement/mmdb-server/issues/3#issuecomment-2189260997) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
+3. 🗣 Commented on [#3](https://github.com/SteveClement/mmdb-server/issues/3#issuecomment-2189245794) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
+4. ❗ Opened issue [#3](https://github.com/SteveClement/mmdb-server/issues/3) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
+5. ❗ Opened issue [#2](https://github.com/SteveClement/mmdb-server/issues/2) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
 <!--END_SECTION:activity-->
 
 </details>
