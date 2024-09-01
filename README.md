@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#11540](https://github.com/fleetdm/fleet/issues/11540#issuecomment-2284035822) in [fleetdm/fleet](https://github.com/fleetdm/fleet)
-2. 🗣 Commented on [#4298](https://github.com/pygame/pygame/issues/4298#issuecomment-2249881376) in [pygame/pygame](https://github.com/pygame/pygame)
-3. 🗣 Commented on [#45](https://github.com/AdamLaurie/RFIDler/issues/45#issuecomment-2236589482) in [AdamLaurie/RFIDler](https://github.com/AdamLaurie/RFIDler)
-4. ❗ Opened issue [#4298](https://github.com/pygame/pygame/issues/4298) in [pygame/pygame](https://github.com/pygame/pygame)
-5. 🗣 Commented on [#3](https://github.com/SteveClement/mmdb-server/issues/3#issuecomment-2189260997) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
+1. 🗣 Commented on [#95](https://github.com/aceberg/WatchYourLAN/issues/95#issuecomment-2323284278) in [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
+2. 🗣 Commented on [#104](https://github.com/aceberg/WatchYourLAN/issues/104#issuecomment-2323282016) in [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
+3. 💪 Opened PR [#110](https://github.com/aceberg/WatchYourLAN/pull/110) in [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
+4. 💪 Opened PR [#109](https://github.com/aceberg/WatchYourLAN/pull/109) in [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
+5. 🗣 Commented on [#11540](https://github.com/fleetdm/fleet/issues/11540#issuecomment-2284035822) in [fleetdm/fleet](https://github.com/fleetdm/fleet)
 <!--END_SECTION:activity-->
 
 </details>
