@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/aceberg/WatchYourPorts/issues/2#issuecomment-2359215085) in [aceberg/WatchYourPorts](https://github.com/aceberg/WatchYourPorts)
-2. 🗣 Commented on [#4626](https://github.com/symless/synergy/issues/4626#issuecomment-2338456387) in [symless/synergy](https://github.com/symless/synergy)
-3. ❗ Opened issue [#2](https://github.com/aceberg/WatchYourPorts/issues/2) in [aceberg/WatchYourPorts](https://github.com/aceberg/WatchYourPorts)
-4. 🗣 Commented on [#104](https://github.com/aceberg/WatchYourLAN/issues/104#issuecomment-2323997224) in [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
-5. 🗣 Commented on [#106](https://github.com/aceberg/WatchYourLAN/issues/106#issuecomment-2323335686) in [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
+1. 💪 Opened PR [#1022](https://github.com/pimoroni/pimoroni-pico/pull/1022) in [pimoroni/pimoroni-pico](https://github.com/pimoroni/pimoroni-pico)
+2. 🗣 Commented on [#2](https://github.com/aceberg/WatchYourPorts/issues/2#issuecomment-2359215085) in [aceberg/WatchYourPorts](https://github.com/aceberg/WatchYourPorts)
+3. 🗣 Commented on [#4626](https://github.com/symless/synergy/issues/4626#issuecomment-2338456387) in [symless/synergy](https://github.com/symless/synergy)
+4. ❗ Opened issue [#2](https://github.com/aceberg/WatchYourPorts/issues/2) in [aceberg/WatchYourPorts](https://github.com/aceberg/WatchYourPorts)
+5. 🗣 Commented on [#104](https://github.com/aceberg/WatchYourLAN/issues/104#issuecomment-2323997224) in [aceberg/WatchYourLAN](https://github.com/aceberg/WatchYourLAN)
 <!--END_SECTION:activity-->
 
 </details>
