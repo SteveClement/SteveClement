@@ -65,7 +65,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/pimoroni/pms5003-python/issues/21#issuecomment-2613988651) in [pimoroni/pms5003-python](https://github.com/pimoroni/pms5003-python)
+1. ❗ Opened issue [#610](https://github.com/CIRCL/AIL-framework/issues/610) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
 2. ❗ Opened issue [#1](https://github.com/hack-lu/hackathon.lu-website/issues/1) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
 3. 🔒 Closed issue [#5667](https://github.com/MISP/MISP/issues/5667) in [MISP/MISP](https://github.com/MISP/MISP)
 4. 💪 Opened PR [#1022](https://github.com/pimoroni/pimoroni-pico/pull/1022) in [pimoroni/pimoroni-pico](https://github.com/pimoroni/pimoroni-pico)
