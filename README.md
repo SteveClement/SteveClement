@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#610](https://github.com/CIRCL/AIL-framework/issues/610) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
-2. ❗ Opened issue [#1](https://github.com/hack-lu/hackathon.lu-website/issues/1) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
-3. 🔒 Closed issue [#5667](https://github.com/MISP/MISP/issues/5667) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 💪 Opened PR [#1022](https://github.com/pimoroni/pimoroni-pico/pull/1022) in [pimoroni/pimoroni-pico](https://github.com/pimoroni/pimoroni-pico)
-5. ❗ Opened issue [#2](https://github.com/aceberg/WatchYourPorts/issues/2) in [aceberg/WatchYourPorts](https://github.com/aceberg/WatchYourPorts)
+1. 🗣 Commented on [#610](https://github.com/CIRCL/AIL-framework/issues/610#issuecomment-2700634536) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
+2. 🔓 Reopened issue [#610](https://github.com/CIRCL/AIL-framework/issues/610) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
+3. 🗣 Commented on [#610](https://github.com/CIRCL/AIL-framework/issues/610#issuecomment-2700619767) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
+4. 🔒 Closed issue [#610](https://github.com/CIRCL/AIL-framework/issues/610) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
+5. ❗ Opened issue [#610](https://github.com/CIRCL/AIL-framework/issues/610) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
 <!--END_SECTION:activity-->
 
 </details>
