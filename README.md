@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/syn2cat/avocados/pull/1) in [syn2cat/avocados](https://github.com/syn2cat/avocados)
-2. 💪 Opened PR [#1](https://github.com/syn2cat/avocados/pull/1) in [syn2cat/avocados](https://github.com/syn2cat/avocados)
-3. 🗣 Commented on [#4673](https://github.com/alacritty/alacritty/issues/4673#issuecomment-2708190949) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
-4. 🗣 Commented on [#610](https://github.com/CIRCL/AIL-framework/issues/610#issuecomment-2700634536) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
-5. 🔓 Reopened issue [#610](https://github.com/CIRCL/AIL-framework/issues/610) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
+1. ❗ Opened issue [#1](https://github.com/SteveClement/whatsapp-group-extractor/issues/1) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
+2. 🎉 Merged PR [#1](https://github.com/syn2cat/avocados/pull/1) in [syn2cat/avocados](https://github.com/syn2cat/avocados)
+3. 💪 Opened PR [#1](https://github.com/syn2cat/avocados/pull/1) in [syn2cat/avocados](https://github.com/syn2cat/avocados)
+4. 🗣 Commented on [#4673](https://github.com/alacritty/alacritty/issues/4673#issuecomment-2708190949) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+5. 🗣 Commented on [#610](https://github.com/CIRCL/AIL-framework/issues/610#issuecomment-2700634536) in [CIRCL/AIL-framework](https://github.com/CIRCL/AIL-framework)
 <!--END_SECTION:activity-->
 
 </details>
