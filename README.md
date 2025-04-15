@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/hack-lu/hackathon.lu-website/issues/1#issuecomment-2780559972) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
-2. 🔒 Closed issue [#1](https://github.com/hack-lu/hackathon.lu-website/issues/1) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
-3. 🎉 Merged PR [#3](https://github.com/SteveClement/whatsapp-group-extractor/pull/3) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
-4. 💪 Opened PR [#3](https://github.com/SteveClement/whatsapp-group-extractor/pull/3) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
-5. ❗ Opened issue [#2](https://github.com/SteveClement/whatsapp-group-extractor/issues/2) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
+1. 💪 Opened PR [#795](https://github.com/pandora-analysis/pandora/pull/795) in [pandora-analysis/pandora](https://github.com/pandora-analysis/pandora)
+2. 🗣 Commented on [#1](https://github.com/hack-lu/hackathon.lu-website/issues/1#issuecomment-2780559972) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
+3. 🔒 Closed issue [#1](https://github.com/hack-lu/hackathon.lu-website/issues/1) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
+4. 🎉 Merged PR [#3](https://github.com/SteveClement/whatsapp-group-extractor/pull/3) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
+5. 💪 Opened PR [#3](https://github.com/SteveClement/whatsapp-group-extractor/pull/3) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
 <!--END_SECTION:activity-->
 
 </details>
