@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#795](https://github.com/pandora-analysis/pandora/pull/795) in [pandora-analysis/pandora](https://github.com/pandora-analysis/pandora)
-2. 🗣 Commented on [#1](https://github.com/hack-lu/hackathon.lu-website/issues/1#issuecomment-2780559972) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
-3. 🔒 Closed issue [#1](https://github.com/hack-lu/hackathon.lu-website/issues/1) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
-4. 🎉 Merged PR [#3](https://github.com/SteveClement/whatsapp-group-extractor/pull/3) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
-5. 💪 Opened PR [#3](https://github.com/SteveClement/whatsapp-group-extractor/pull/3) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
+1. 🗣 Commented on [#5](https://github.com/adulau/mmdb-server/pull/5#issuecomment-2813404038) in [adulau/mmdb-server](https://github.com/adulau/mmdb-server)
+2. 💪 Opened PR [#6](https://github.com/adulau/mmdb-server/pull/6) in [adulau/mmdb-server](https://github.com/adulau/mmdb-server)
+3. 💪 Opened PR [#795](https://github.com/pandora-analysis/pandora/pull/795) in [pandora-analysis/pandora](https://github.com/pandora-analysis/pandora)
+4. 🗣 Commented on [#1](https://github.com/hack-lu/hackathon.lu-website/issues/1#issuecomment-2780559972) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
+5. 🔒 Closed issue [#1](https://github.com/hack-lu/hackathon.lu-website/issues/1) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
 <!--END_SECTION:activity-->
 
 </details>
