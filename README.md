@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/fedus/leneda-client/issues/2#issuecomment-2830131654) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
-2. 🔒 Closed issue [#2](https://github.com/fedus/leneda-client/issues/2) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
-3. ❗ Opened issue [#3](https://github.com/fedus/leneda-client/issues/3) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
-4. ❗ Opened issue [#2](https://github.com/fedus/leneda-client/issues/2) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
-5. ❗ Opened issue [#127](https://github.com/vulnerability-lookup/vulnerability-lookup/issues/127) in [vulnerability-lookup/vulnerability-lookup](https://github.com/vulnerability-lookup/vulnerability-lookup)
+1. 🗣 Commented on [#127](https://github.com/vulnerability-lookup/vulnerability-lookup/issues/127#issuecomment-2830193388) in [vulnerability-lookup/vulnerability-lookup](https://github.com/vulnerability-lookup/vulnerability-lookup)
+2. 💪 Opened PR [#4](https://github.com/fedus/leneda-client/pull/4) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
+3. 🗣 Commented on [#2](https://github.com/fedus/leneda-client/issues/2#issuecomment-2830131654) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
+4. 🔒 Closed issue [#2](https://github.com/fedus/leneda-client/issues/2) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
+5. ❗ Opened issue [#3](https://github.com/fedus/leneda-client/issues/3) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
 <!--END_SECTION:activity-->
 
 </details>
