@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10327](https://github.com/MISP/MISP/pull/10327) in [MISP/MISP](https://github.com/MISP/MISP)
-2. ❗ Opened issue [#4](https://github.com/SteveClement/mmdb-server/issues/4) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
-3. 🗣 Commented on [#5](https://github.com/adulau/mmdb-server/pull/5#issuecomment-2813404038) in [adulau/mmdb-server](https://github.com/adulau/mmdb-server)
-4. 💪 Opened PR [#6](https://github.com/adulau/mmdb-server/pull/6) in [adulau/mmdb-server](https://github.com/adulau/mmdb-server)
-5. 💪 Opened PR [#795](https://github.com/pandora-analysis/pandora/pull/795) in [pandora-analysis/pandora](https://github.com/pandora-analysis/pandora)
+1. ❗ Opened issue [#1](https://github.com/c-metz/leneda/issues/1) in [c-metz/leneda](https://github.com/c-metz/leneda)
+2. 💪 Opened PR [#10327](https://github.com/MISP/MISP/pull/10327) in [MISP/MISP](https://github.com/MISP/MISP)
+3. ❗ Opened issue [#4](https://github.com/SteveClement/mmdb-server/issues/4) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
+4. 🗣 Commented on [#5](https://github.com/adulau/mmdb-server/pull/5#issuecomment-2813404038) in [adulau/mmdb-server](https://github.com/adulau/mmdb-server)
+5. 💪 Opened PR [#6](https://github.com/adulau/mmdb-server/pull/6) in [adulau/mmdb-server](https://github.com/adulau/mmdb-server)
 <!--END_SECTION:activity-->
 
 </details>
