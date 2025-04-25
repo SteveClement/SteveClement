@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#127](https://github.com/vulnerability-lookup/vulnerability-lookup/issues/127) in [vulnerability-lookup/vulnerability-lookup](https://github.com/vulnerability-lookup/vulnerability-lookup)
-2. ❗ Opened issue [#1](https://github.com/c-metz/leneda/issues/1) in [c-metz/leneda](https://github.com/c-metz/leneda)
-3. 💪 Opened PR [#10327](https://github.com/MISP/MISP/pull/10327) in [MISP/MISP](https://github.com/MISP/MISP)
-4. ❗ Opened issue [#4](https://github.com/SteveClement/mmdb-server/issues/4) in [SteveClement/mmdb-server](https://github.com/SteveClement/mmdb-server)
-5. 🗣 Commented on [#5](https://github.com/adulau/mmdb-server/pull/5#issuecomment-2813404038) in [adulau/mmdb-server](https://github.com/adulau/mmdb-server)
+1. ❗ Opened issue [#3](https://github.com/fedus/leneda-client/issues/3) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
+2. ❗ Opened issue [#2](https://github.com/fedus/leneda-client/issues/2) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
+3. ❗ Opened issue [#127](https://github.com/vulnerability-lookup/vulnerability-lookup/issues/127) in [vulnerability-lookup/vulnerability-lookup](https://github.com/vulnerability-lookup/vulnerability-lookup)
+4. ❗ Opened issue [#1](https://github.com/c-metz/leneda/issues/1) in [c-metz/leneda](https://github.com/c-metz/leneda)
+5. 💪 Opened PR [#10327](https://github.com/MISP/MISP/pull/10327) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
