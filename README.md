@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/SteveClement/whatsapp-tools/pull/7) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
-2. 💪 Opened PR [#7](https://github.com/SteveClement/whatsapp-tools/pull/7) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
-3. ❌ Closed PR [#6](https://github.com/SteveClement/whatsapp-tools/pull/6) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
-4. 💪 Opened PR [#6](https://github.com/SteveClement/whatsapp-tools/pull/6) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
-5. ❗ Opened issue [#5](https://github.com/SteveClement/whatsapp-group-extractor/issues/5) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
+1. 🎉 Merged PR [#8](https://github.com/SteveClement/whatsapp-tools/pull/8) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
+2. 💪 Opened PR [#8](https://github.com/SteveClement/whatsapp-tools/pull/8) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
+3. 🎉 Merged PR [#7](https://github.com/SteveClement/whatsapp-tools/pull/7) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
+4. 💪 Opened PR [#7](https://github.com/SteveClement/whatsapp-tools/pull/7) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
+5. ❌ Closed PR [#6](https://github.com/SteveClement/whatsapp-tools/pull/6) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
 <!--END_SECTION:activity-->
 
 </details>
