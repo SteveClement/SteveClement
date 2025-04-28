@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#5](https://github.com/SteveClement/whatsapp-group-extractor/issues/5) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
-2. ❗ Opened issue [#4](https://github.com/SteveClement/whatsapp-group-extractor/issues/4) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
-3. 🗣 Commented on [#127](https://github.com/vulnerability-lookup/vulnerability-lookup/issues/127#issuecomment-2830193388) in [vulnerability-lookup/vulnerability-lookup](https://github.com/vulnerability-lookup/vulnerability-lookup)
-4. 💪 Opened PR [#4](https://github.com/fedus/leneda-client/pull/4) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
-5. 🗣 Commented on [#2](https://github.com/fedus/leneda-client/issues/2#issuecomment-2830131654) in [fedus/leneda-client](https://github.com/fedus/leneda-client)
+1. 🎉 Merged PR [#7](https://github.com/SteveClement/whatsapp-tools/pull/7) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
+2. 💪 Opened PR [#7](https://github.com/SteveClement/whatsapp-tools/pull/7) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
+3. ❌ Closed PR [#6](https://github.com/SteveClement/whatsapp-tools/pull/6) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
+4. 💪 Opened PR [#6](https://github.com/SteveClement/whatsapp-tools/pull/6) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
+5. ❗ Opened issue [#5](https://github.com/SteveClement/whatsapp-group-extractor/issues/5) in [SteveClement/whatsapp-group-extractor](https://github.com/SteveClement/whatsapp-group-extractor)
 <!--END_SECTION:activity-->
 
 </details>
