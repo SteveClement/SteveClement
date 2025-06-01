@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/SteveClement/whatsapp-tools/pull/8) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
-2. 💪 Opened PR [#8](https://github.com/SteveClement/whatsapp-tools/pull/8) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
-3. 🎉 Merged PR [#7](https://github.com/SteveClement/whatsapp-tools/pull/7) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
-4. 💪 Opened PR [#7](https://github.com/SteveClement/whatsapp-tools/pull/7) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
-5. ❌ Closed PR [#6](https://github.com/SteveClement/whatsapp-tools/pull/6) in [SteveClement/whatsapp-tools](https://github.com/SteveClement/whatsapp-tools)
+1. ❌ Closed PR [#210](https://github.com/ail-project/ail-framework/pull/210) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+2. ❌ Closed PR [#4627](https://github.com/MISP/MISP/pull/4627) in [MISP/MISP](https://github.com/MISP/MISP)
+3. ❌ Closed PR [#4348](https://github.com/MISP/MISP/pull/4348) in [MISP/MISP](https://github.com/MISP/MISP)
+4. ❌ Closed PR [#4](https://github.com/ntddk/virustream/pull/4) in [ntddk/virustream](https://github.com/ntddk/virustream)
+5. ❌ Closed PR [#5](https://github.com/nedos/mutt-sidebar-patch/pull/5) in [nedos/mutt-sidebar-patch](https://github.com/nedos/mutt-sidebar-patch)
 <!--END_SECTION:activity-->
 
 </details>
