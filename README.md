@@ -65,8 +65,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#210](https://github.com/ail-project/ail-framework/pull/210) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-2. ❌ Closed PR [#4627](https://github.com/MISP/MISP/pull/4627) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🗣 Commented on [#276](https://github.com/ail-project/ail-framework/issues/276#issuecomment-3031695165) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+2. ❗ Opened issue [#276](https://github.com/ail-project/ail-framework/issues/276) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
 3. ❌ Closed PR [#4348](https://github.com/MISP/MISP/pull/4348) in [MISP/MISP](https://github.com/MISP/MISP)
 4. ❌ Closed PR [#4](https://github.com/ntddk/virustream/pull/4) in [ntddk/virustream](https://github.com/ntddk/virustream)
 5. ❌ Closed PR [#5](https://github.com/nedos/mutt-sidebar-patch/pull/5) in [nedos/mutt-sidebar-patch](https://github.com/nedos/mutt-sidebar-patch)
