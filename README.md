@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10426](https://github.com/MISP/MISP/issues/10426#issuecomment-3092052261) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 🗣 Commented on [#10426](https://github.com/MISP/MISP/issues/10426#issuecomment-3092000798) in [MISP/MISP](https://github.com/MISP/MISP)
-3. ❗ Opened issue [#10426](https://github.com/MISP/MISP/issues/10426) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 🗣 Commented on [#247](https://github.com/ail-project/ail-framework/issues/247#issuecomment-3038838756) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-5. 🗣 Commented on [#276](https://github.com/ail-project/ail-framework/issues/276#issuecomment-3031695165) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+1. 🗣 Commented on [#10426](https://github.com/MISP/MISP/issues/10426#issuecomment-3092217501) in [MISP/MISP](https://github.com/MISP/MISP)
+2. 🗣 Commented on [#10427](https://github.com/MISP/MISP/issues/10427#issuecomment-3092215176) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 🗣 Commented on [#10426](https://github.com/MISP/MISP/issues/10426#issuecomment-3092208138) in [MISP/MISP](https://github.com/MISP/MISP)
+4. ❗ Opened issue [#10427](https://github.com/MISP/MISP/issues/10427) in [MISP/MISP](https://github.com/MISP/MISP)
+5. 🗣 Commented on [#10426](https://github.com/MISP/MISP/issues/10426#issuecomment-3092052261) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
