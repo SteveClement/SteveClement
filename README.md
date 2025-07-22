@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#10428](https://github.com/MISP/MISP/pull/10428) in [MISP/MISP](https://github.com/MISP/MISP)
-2. 🗣 Commented on [#10426](https://github.com/MISP/MISP/issues/10426#issuecomment-3092217501) in [MISP/MISP](https://github.com/MISP/MISP)
-3. 🗣 Commented on [#10427](https://github.com/MISP/MISP/issues/10427#issuecomment-3092215176) in [MISP/MISP](https://github.com/MISP/MISP)
-4. 🗣 Commented on [#10426](https://github.com/MISP/MISP/issues/10426#issuecomment-3092208138) in [MISP/MISP](https://github.com/MISP/MISP)
-5. ❗ Opened issue [#10427](https://github.com/MISP/MISP/issues/10427) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 🗣 Commented on [#10426](https://github.com/MISP/MISP/issues/10426#issuecomment-3101340715) in [MISP/MISP](https://github.com/MISP/MISP)
+2. 🔒 Closed issue [#10426](https://github.com/MISP/MISP/issues/10426) in [MISP/MISP](https://github.com/MISP/MISP)
+3. 💪 Opened PR [#10428](https://github.com/MISP/MISP/pull/10428) in [MISP/MISP](https://github.com/MISP/MISP)
+4. 🗣 Commented on [#10426](https://github.com/MISP/MISP/issues/10426#issuecomment-3092217501) in [MISP/MISP](https://github.com/MISP/MISP)
+5. 🗣 Commented on [#10427](https://github.com/MISP/MISP/issues/10427#issuecomment-3092215176) in [MISP/MISP](https://github.com/MISP/MISP)
 <!--END_SECTION:activity-->
 
 </details>
