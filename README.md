@@ -65,8 +65,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/range42/range42-presentation/pull/1) in [range42/range42-presentation](https://github.com/range42/range42-presentation)
-2. 🗣 Commented on [#6466](https://github.com/acmesh-official/acme.sh/pull/6466#issuecomment-3338317683) in [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
+1. 🗣 Commented on [#6466](https://github.com/acmesh-official/acme.sh/pull/6466#issuecomment-3338317683) in [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
+2. ❗ Opened issue [#6532](https://github.com/acmesh-official/acme.sh/issues/6532) in [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
 3. ❗ Opened issue [#6532](https://github.com/acmesh-official/acme.sh/issues/6532) in [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
 4. ❗ Opened issue [#5](https://github.com/MISP/SkillAegis/issues/5) in [MISP/SkillAegis](https://github.com/MISP/SkillAegis)
 5. 🗣 Commented on [#10426](https://github.com/MISP/MISP/issues/10426#issuecomment-3101340715) in [MISP/MISP](https://github.com/MISP/MISP)
