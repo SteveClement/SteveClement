@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#7](undefined) in [MISP/SkillAegis](https://github.com/MISP/SkillAegis)
-2. ❌ Closed PR [#6](undefined) in [MISP/SkillAegis](https://github.com/MISP/SkillAegis)
-3. 🗣 Commented on [#6466](https://github.com/acmesh-official/acme.sh/pull/6466#issuecomment-3338317683) in [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
-4. ❗ Opened issue [#6532](https://github.com/acmesh-official/acme.sh/issues/6532) in [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
-5. 🗣 Commented on [#10426](https://github.com/MISP/MISP/issues/10426#issuecomment-3101340715) in [MISP/MISP](https://github.com/MISP/MISP)
+1. 💪 Opened PR [#8](undefined) in [MISP/SkillAegis](https://github.com/MISP/SkillAegis)
+2. 💪 Opened PR [#7](undefined) in [MISP/SkillAegis](https://github.com/MISP/SkillAegis)
+3. ❌ Closed PR [#6](undefined) in [MISP/SkillAegis](https://github.com/MISP/SkillAegis)
+4. 🗣 Commented on [#6466](https://github.com/acmesh-official/acme.sh/pull/6466#issuecomment-3338317683) in [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
+5. ❗ Opened issue [#6532](https://github.com/acmesh-official/acme.sh/issues/6532) in [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh)
 <!--END_SECTION:activity-->
 
 </details>
