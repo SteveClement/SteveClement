@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1.  Assigned issue [#1](https://github.com/range42/.github/issues/1) in [range42/.github](https://github.com/range42/.github)
-2.  Assigned issue [#1](https://github.com/range42/.github/issues/1) in [range42/.github](https://github.com/range42/.github)
-3. ❗ Opened issue [#1](https://github.com/range42/.github/issues/1) in [range42/.github](https://github.com/range42/.github)
-4. 💪 Opened PR [#8](undefined) in [MISP/SkillAegis](https://github.com/MISP/SkillAegis)
-5. 💪 Opened PR [#7](undefined) in [MISP/SkillAegis](https://github.com/MISP/SkillAegis)
+1. 💪 Opened PR [#4](undefined) in [MISP/SkillAegis-Dashboard](https://github.com/MISP/SkillAegis-Dashboard)
+2. 💪 Opened PR [#2](undefined) in [MISP/SkillAegis-Editor](https://github.com/MISP/SkillAegis-Editor)
+3. 💪 Opened PR [#9](undefined) in [MISP/SkillAegis](https://github.com/MISP/SkillAegis)
+4.  Assigned issue [#1](https://github.com/range42/.github/issues/1) in [range42/.github](https://github.com/range42/.github)
+5.  Assigned issue [#1](https://github.com/range42/.github/issues/1) in [range42/.github](https://github.com/range42/.github)
 <!--END_SECTION:activity-->
 
 </details>
