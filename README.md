@@ -66,9 +66,9 @@
 
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#1](undefined) in [SteveClement/webflyx](https://github.com/SteveClement/webflyx)
-2. 💪 Opened PR [#4](undefined) in [MISP/SkillAegis-Dashboard](https://github.com/MISP/SkillAegis-Dashboard)
-3. 💪 Opened PR [#2](undefined) in [MISP/SkillAegis-Editor](https://github.com/MISP/SkillAegis-Editor)
-4. 💪 Opened PR [#9](undefined) in [MISP/SkillAegis](https://github.com/MISP/SkillAegis)
+2. 💪 Opened PR [#4](undefined) in [SkillAegis/SkillAegis-Dashboard](https://github.com/SkillAegis/SkillAegis-Dashboard)
+3. 💪 Opened PR [#2](undefined) in [SkillAegis/SkillAegis-Editor](https://github.com/SkillAegis/SkillAegis-Editor)
+4. 💪 Opened PR [#9](undefined) in [SkillAegis/SkillAegis](https://github.com/SkillAegis/SkillAegis)
 5.  Assigned issue [#1](https://github.com/range42/.github/issues/1) in [range42/.github](https://github.com/range42/.github)
 <!--END_SECTION:activity-->
 
