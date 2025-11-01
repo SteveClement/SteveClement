@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](undefined) in [SteveClement/megacorp](https://github.com/SteveClement/megacorp)
-2. 🗣 Commented on [#3907](https://github.com/bootdotdev/megacorp/pull/3907#issuecomment-3442223335) in [bootdotdev/megacorp](https://github.com/bootdotdev/megacorp)
-3. ❌ Closed PR [#3907](undefined) in [bootdotdev/megacorp](https://github.com/bootdotdev/megacorp)
-4. 💪 Opened PR [#3907](undefined) in [bootdotdev/megacorp](https://github.com/bootdotdev/megacorp)
-5. 🔒 Closed issue [#1](https://github.com/range42/.github/issues/1) in [range42/.github](https://github.com/range42/.github)
+1. 💪 Opened PR [#13](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+2. 💪 Opened PR [#22](undefined) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
+3. 💪 Opened PR [#21](undefined) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
+4. 💪 Opened PR [#1](undefined) in [SteveClement/megacorp](https://github.com/SteveClement/megacorp)
+5. 🗣 Commented on [#3907](https://github.com/bootdotdev/megacorp/pull/3907#issuecomment-3442223335) in [bootdotdev/megacorp](https://github.com/bootdotdev/megacorp)
 <!--END_SECTION:activity-->
 
 </details>
