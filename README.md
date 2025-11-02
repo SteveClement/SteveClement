@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
-2. 💪 Opened PR [#22](undefined) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
-3. 💪 Opened PR [#21](undefined) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
-4. 💪 Opened PR [#1](undefined) in [SteveClement/megacorp](https://github.com/SteveClement/megacorp)
-5. 🗣 Commented on [#3907](https://github.com/bootdotdev/megacorp/pull/3907#issuecomment-3442223335) in [bootdotdev/megacorp](https://github.com/bootdotdev/megacorp)
+1. 💪 Opened PR [#1](undefined) in [SteveClement/learn-cicd-starter](https://github.com/SteveClement/learn-cicd-starter)
+2. ❌ Closed PR [#2113](undefined) in [bootdotdev/learn-cicd-starter](https://github.com/bootdotdev/learn-cicd-starter)
+3. 💪 Opened PR [#2113](undefined) in [bootdotdev/learn-cicd-starter](https://github.com/bootdotdev/learn-cicd-starter)
+4. 💪 Opened PR [#13](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+5. 💪 Opened PR [#22](undefined) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
 <!--END_SECTION:activity-->
 
 </details>
