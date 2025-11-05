@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#14](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
-2. 💪 Opened PR [#1](undefined) in [SteveClement/learn-cicd-starter](https://github.com/SteveClement/learn-cicd-starter)
-3. ❌ Closed PR [#2113](undefined) in [bootdotdev/learn-cicd-starter](https://github.com/bootdotdev/learn-cicd-starter)
-4. 💪 Opened PR [#2113](undefined) in [bootdotdev/learn-cicd-starter](https://github.com/bootdotdev/learn-cicd-starter)
-5. 💪 Opened PR [#13](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+1. 💪 Opened PR [#15](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+2. 💪 Opened PR [#14](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+3. 💪 Opened PR [#1](undefined) in [SteveClement/learn-cicd-starter](https://github.com/SteveClement/learn-cicd-starter)
+4. ❌ Closed PR [#2113](undefined) in [bootdotdev/learn-cicd-starter](https://github.com/bootdotdev/learn-cicd-starter)
+5. 💪 Opened PR [#2113](undefined) in [bootdotdev/learn-cicd-starter](https://github.com/bootdotdev/learn-cicd-starter)
 <!--END_SECTION:activity-->
 
 </details>
