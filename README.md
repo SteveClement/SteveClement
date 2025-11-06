@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#17](https://github.com/NC3-LU/code.lhc.lu/issues/17) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
-2. 💪 Opened PR [#16](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
-3. 💪 Opened PR [#15](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
-4. 💪 Opened PR [#14](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
-5. 💪 Opened PR [#1](undefined) in [SteveClement/learn-cicd-starter](https://github.com/SteveClement/learn-cicd-starter)
+1. 💪 Opened PR [#154](undefined) in [NC3-LU/Fit4Cybersecurity](https://github.com/NC3-LU/Fit4Cybersecurity)
+2. ❗ Opened issue [#17](https://github.com/NC3-LU/code.lhc.lu/issues/17) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+3. 💪 Opened PR [#16](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+4. 💪 Opened PR [#15](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+5. 💪 Opened PR [#14](undefined) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
 <!--END_SECTION:activity-->
 
 </details>
