@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#268](https://github.com/ail-project/ail-framework/pull/268#issuecomment-3507980072) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-2. 🗣 Commented on [#209](https://github.com/ail-project/ail-framework/pull/209#issuecomment-3507971750) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-3. 🗣 Commented on [#278](https://github.com/ail-project/ail-framework/pull/278#issuecomment-3507959856) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-4. 🗣 Commented on [#269](https://github.com/ail-project/ail-framework/pull/269#issuecomment-3507958189) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
-5. 💪 Opened PR [#296](undefined) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+1. 💪 Opened PR [#297](undefined) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+2. 🗣 Commented on [#268](https://github.com/ail-project/ail-framework/pull/268#issuecomment-3508075161) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+3. ❌ Closed PR [#296](undefined) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+4. 🗣 Commented on [#268](https://github.com/ail-project/ail-framework/pull/268#issuecomment-3507980072) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+5. 🗣 Commented on [#209](https://github.com/ail-project/ail-framework/pull/209#issuecomment-3507971750) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
 <!--END_SECTION:activity-->
 
 </details>
