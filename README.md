@@ -65,7 +65,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❌ Merged PR [#21](undefined) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
+1. 🎉 Merged PR [#21](https://github.com/hack-lu/hackathon.lu-website/pull/21) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
 2. 🗣 Commented on [#21](https://github.com/hack-lu/hackathon.lu-website/pull/21#issuecomment-3662676207) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
 3. ❌ Merged PR [#22](undefined) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
 4. 🗣 Commented on [#268](https://github.com/ail-project/ail-framework/pull/268#issuecomment-3508075161) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
