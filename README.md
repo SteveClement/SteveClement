@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/SteveClement/DV-openwrt/pull/1) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
-2. 💪 Opened PR [#1](https://github.com/SteveClement/DV-openwrt/pull/1) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
-3. 🎉 Merged PR [#21](https://github.com/hack-lu/hackathon.lu-website/pull/21) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
-4. 🗣 Commented on [#21](https://github.com/hack-lu/hackathon.lu-website/pull/21#issuecomment-3662676207) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
-5. ❌ Closed PR [#296](undefined) in [ail-project/ail-framework](https://github.com/ail-project/ail-framework)
+1. 🎉 Merged PR [#2](https://github.com/SteveClement/DV-openwrt/pull/2) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
+2. 💪 Opened PR [#2](https://github.com/SteveClement/DV-openwrt/pull/2) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
+3. 🎉 Merged PR [#1](https://github.com/SteveClement/DV-openwrt/pull/1) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
+4. 💪 Opened PR [#1](https://github.com/SteveClement/DV-openwrt/pull/1) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
+5. 🎉 Merged PR [#21](https://github.com/hack-lu/hackathon.lu-website/pull/21) in [hack-lu/hackathon.lu-website](https://github.com/hack-lu/hackathon.lu-website)
 <!--END_SECTION:activity-->
 
 </details>
