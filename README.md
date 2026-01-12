@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1822](https://github.com/docmost/docmost/issues/1822) in [docmost/docmost](https://github.com/docmost/docmost)
-2. 🗣 Commented on [#1822](https://github.com/docmost/docmost/issues/1822#issuecomment-3723302209) in [docmost/docmost](https://github.com/docmost/docmost)
-3. ❗ Opened issue [#1822](https://github.com/docmost/docmost/issues/1822) in [docmost/docmost](https://github.com/docmost/docmost)
-4. 🎉 Merged PR [#2](https://github.com/SteveClement/DV-openwrt/pull/2) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
-5. 💪 Opened PR [#2](https://github.com/SteveClement/DV-openwrt/pull/2) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
+1. ❗ Opened issue [#1](https://github.com/onurcangnc/whatsapp_chat_analyzer/issues/1) in [onurcangnc/whatsapp_chat_analyzer](https://github.com/onurcangnc/whatsapp_chat_analyzer)
+2. 🔒 Closed issue [#1822](https://github.com/docmost/docmost/issues/1822) in [docmost/docmost](https://github.com/docmost/docmost)
+3. 🗣 Commented on [#1822](https://github.com/docmost/docmost/issues/1822#issuecomment-3723302209) in [docmost/docmost](https://github.com/docmost/docmost)
+4. ❗ Opened issue [#1822](https://github.com/docmost/docmost/issues/1822) in [docmost/docmost](https://github.com/docmost/docmost)
+5. 🎉 Merged PR [#2](https://github.com/SteveClement/DV-openwrt/pull/2) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
 <!--END_SECTION:activity-->
 
 </details>
