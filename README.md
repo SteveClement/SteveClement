@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#6](https://github.com/range42/range42/pull/6) in [range42/range42](https://github.com/range42/range42)
-2. 💪 Opened PR [#6](https://github.com/range42/range42/pull/6) in [range42/range42](https://github.com/range42/range42)
-3. ❗ Opened issue [#5](https://github.com/range42/range42/issues/5) in [range42/range42](https://github.com/range42/range42)
-4. ❗ Opened issue [#4](https://github.com/range42/range42/issues/4) in [range42/range42](https://github.com/range42/range42)
-5. ❗ Opened issue [#3](https://github.com/range42/range42/issues/3) in [range42/range42](https://github.com/range42/range42)
+1. ❗ Opened issue [#12](https://github.com/range42/range42/issues/12) in [range42/range42](https://github.com/range42/range42)
+2. 🎉 Merged PR [#6](https://github.com/range42/range42/pull/6) in [range42/range42](https://github.com/range42/range42)
+3. 💪 Opened PR [#6](https://github.com/range42/range42/pull/6) in [range42/range42](https://github.com/range42/range42)
+4. ❗ Opened issue [#5](https://github.com/range42/range42/issues/5) in [range42/range42](https://github.com/range42/range42)
+5. ❗ Opened issue [#4](https://github.com/range42/range42/issues/4) in [range42/range42](https://github.com/range42/range42)
 <!--END_SECTION:activity-->
 
 </details>
