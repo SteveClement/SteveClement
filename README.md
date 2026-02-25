@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/SteveClement/DV-openwrt/pull/4) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
-2. 💪 Opened PR [#4](https://github.com/SteveClement/DV-openwrt/pull/4) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
-3. 🎉 Merged PR [#3](https://github.com/SteveClement/DV-openwrt/pull/3) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
-4. 💪 Opened PR [#3](https://github.com/SteveClement/DV-openwrt/pull/3) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
-5. 🗣 Commented on [#18](https://github.com/range42/range42/issues/18#issuecomment-3812217831) in [range42/range42](https://github.com/range42/range42)
+1. ℹ️ Assigned issue [#18](https://github.com/NC3-LU/code.lhc.lu/issues/18) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+2. ℹ️ Assigned issue [#18](https://github.com/NC3-LU/code.lhc.lu/issues/18) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+3. 🎉 Merged PR [#4](https://github.com/SteveClement/DV-openwrt/pull/4) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
+4. 💪 Opened PR [#4](https://github.com/SteveClement/DV-openwrt/pull/4) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
+5. 🎉 Merged PR [#3](https://github.com/SteveClement/DV-openwrt/pull/3) in [SteveClement/DV-openwrt](https://github.com/SteveClement/DV-openwrt)
 <!--END_SECTION:activity-->
 
 </details>
