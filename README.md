@@ -65,10 +65,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2](https://github.com/range42/gh-repo-organizer/issues/2) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
-2. ℹ️ Assigned issue [#1](https://github.com/range42/gh-repo-organizer/issues/1) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
+1. 🔒 Closed issue [#1](https://github.com/range42/gh-repo-organizer/issues/1) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
+2. 🔒 Closed issue [#2](https://github.com/range42/gh-repo-organizer/issues/2) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
 3. ℹ️ Assigned issue [#1](https://github.com/range42/gh-repo-organizer/issues/1) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
-4. ℹ️ Assigned issue [#2](https://github.com/range42/gh-repo-organizer/issues/2) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
+4. ℹ️ Assigned issue [#1](https://github.com/range42/gh-repo-organizer/issues/1) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
 5. ℹ️ Assigned issue [#2](https://github.com/range42/gh-repo-organizer/issues/2) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
 <!--END_SECTION:activity-->
 
