@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/range42/gh-repo-organizer/issues/1) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
-2. 🔒 Closed issue [#2](https://github.com/range42/gh-repo-organizer/issues/2) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
-3. ℹ️ Assigned issue [#1](https://github.com/range42/gh-repo-organizer/issues/1) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
-4. ℹ️ Assigned issue [#1](https://github.com/range42/gh-repo-organizer/issues/1) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
-5. ℹ️ Assigned issue [#2](https://github.com/range42/gh-repo-organizer/issues/2) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
+1. 🎉 Merged PR [#20](https://github.com/NC3-LU/code.lhc.lu/pull/20) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+2. 💪 Opened PR [#20](https://github.com/NC3-LU/code.lhc.lu/pull/20) in [NC3-LU/code.lhc.lu](https://github.com/NC3-LU/code.lhc.lu)
+3. 🔒 Closed issue [#1](https://github.com/range42/gh-repo-organizer/issues/1) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
+4. 🔒 Closed issue [#2](https://github.com/range42/gh-repo-organizer/issues/2) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
+5. ℹ️ Assigned issue [#1](https://github.com/range42/gh-repo-organizer/issues/1) in [range42/gh-repo-organizer](https://github.com/range42/gh-repo-organizer)
 <!--END_SECTION:activity-->
 
 </details>
