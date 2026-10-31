@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#90](https://github.com/rulezet/rulezet-core/issues/90) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
-2. 🗣 Commented on [#78](https://github.com/rulezet/rulezet-core/issues/78#issuecomment-6528459361) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
-3. ❗ Opened issue [#89](https://github.com/rulezet/rulezet-core/issues/89) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
-4. ❗ Opened issue [#88](https://github.com/rulezet/rulezet-core/issues/88) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
-5. ❗ Opened issue [#87](https://github.com/rulezet/rulezet-core/issues/87) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
+1. ❗ Opened issue [#91](https://github.com/rulezet/rulezet-core/issues/91) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
+2. ❗ Opened issue [#90](https://github.com/rulezet/rulezet-core/issues/90) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
+3. 🗣 Commented on [#78](https://github.com/rulezet/rulezet-core/issues/78#issuecomment-6528459361) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
+4. ❗ Opened issue [#89](https://github.com/rulezet/rulezet-core/issues/89) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
+5. ❗ Opened issue [#88](https://github.com/rulezet/rulezet-core/issues/88) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
 <!--END_SECTION:activity-->
 
 </details>
