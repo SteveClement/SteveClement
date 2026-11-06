@@ -65,11 +65,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/CIRCL/orbit-agents/pull/3) in [CIRCL/orbit-agents](https://github.com/CIRCL/orbit-agents)
-2. 💪 Opened PR [#3](https://github.com/CIRCL/orbit-agents/pull/3) in [CIRCL/orbit-agents](https://github.com/CIRCL/orbit-agents)
-3. 💪 Opened PR [#92](https://github.com/rulezet/rulezet-core/pull/92) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
-4. ❗ Opened issue [#91](https://github.com/rulezet/rulezet-core/issues/91) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
-5. ❗ Opened issue [#90](https://github.com/rulezet/rulezet-core/issues/90) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
+1. 💪 Opened PR [#4](https://github.com/CIRCL/orbit-agents/pull/4) in [CIRCL/orbit-agents](https://github.com/CIRCL/orbit-agents)
+2. 🎉 Merged PR [#3](https://github.com/CIRCL/orbit-agents/pull/3) in [CIRCL/orbit-agents](https://github.com/CIRCL/orbit-agents)
+3. 💪 Opened PR [#3](https://github.com/CIRCL/orbit-agents/pull/3) in [CIRCL/orbit-agents](https://github.com/CIRCL/orbit-agents)
+4. 💪 Opened PR [#92](https://github.com/rulezet/rulezet-core/pull/92) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
+5. ❗ Opened issue [#91](https://github.com/rulezet/rulezet-core/issues/91) in [rulezet/rulezet-core](https://github.com/rulezet/rulezet-core)
 <!--END_SECTION:activity-->
 
 </details>
